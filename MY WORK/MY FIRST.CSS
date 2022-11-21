@@ -1,0 +1,17 @@
+#main-contaner {margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+#cont {text-align: center;
+}
+#side-content{
+    height: 500px;
+    width: 290px;
+    background-color: pink;
+    float: right;
+    clear: both;
+    position: right;
+    bottom: 100px;
+    border-top: 500px;
+    flex-direction: column;
+}
